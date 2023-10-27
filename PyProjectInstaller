@@ -1,0 +1,8 @@
+say Loading assets.
+python3 -m pip install opencv-python
+python3 -m pip install numpy
+python3 -m pip install requests
+python3 -m pip install pygame
+python3 -m pip install robloxpy
+say Running alpha version.
+python3 client.py
